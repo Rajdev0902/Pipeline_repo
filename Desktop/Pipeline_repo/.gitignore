@@ -1,8 +1,10 @@
-*.terraform/
-*.terraform.lock.hcl
-*.provider.tf
-*.terraform.tfstate.backup
-*.terraform.tfstate
-*.terraform.tfvars
+"*.terraform"
+"*.terraform.lock.hcl"
+"*.provider.tf"
+"*.terraform.tfstate.backup"
+"*.terraform.tfstate"
+"*.terraform.tfvars"
+"*.tfstate"
+"*.tfstate.*"
 *.tfstate
 *.tfstate.*
