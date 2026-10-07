@@ -1,0 +1,14 @@
+variable "rgghatak" {}
+variable "rajatstorage" {}
+variable "kingofnetwork" {}
+variable "meenabhabhiki" {}
+variable "mirzapurnic" {}
+variable "makbool" {}
+variable "publicips" {}
+variable "onetokafour" {}
+variable "mirzapurkigaddi" {}
+variable "azurebastion" {}
+variable "testingload" {}
+variable "keyvaults" {}
+variable "servers" {}
+variable "databases" {}
